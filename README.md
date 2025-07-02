@@ -7,7 +7,7 @@ This is a [React Native](https://reactnative.dev) project set up with [NativeWin
 1. Clone the repository
 
    ```bash
-   git clone https://github.com/your-username/your-repo-name.git
+   git clone https://github.com/rajshah04/reactnative_nativewind_setup.git
    ```
 
 2. Change to the project directory
