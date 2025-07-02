@@ -1,19 +1,31 @@
-# Welcome to your Expo app 👋
+# Welcome to your NativeWind React Native App 👋
 
-This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
+This is a [React Native](https://reactnative.dev) project set up with [NativeWind](https://www.nativewind.dev) and [Expo](https://expo.dev).
 
 ## Get started
 
-1. Install dependencies
+1. Clone the repository
 
    ```bash
+   git clone https://github.com/your-username/your-repo-name.git
+   ```
+
+2. Change to the project directory
+
+   ```
+   cd reactnative_nativewind_setup
+   ```
+
+3. Install dependencies
+
+   ```
    npm install
    ```
 
-2. Start the app
+4. Start the app
 
-   ```bash
-   npx expo start
+   ```
+   npm start
    ```
 
 In the output, you'll find options to open the app in a
@@ -41,10 +53,3 @@ To learn more about developing your project with Expo, look at the following res
 
 - [Expo documentation](https://docs.expo.dev/): Learn fundamentals, or go into advanced topics with our [guides](https://docs.expo.dev/guides).
 - [Learn Expo tutorial](https://docs.expo.dev/tutorial/introduction/): Follow a step-by-step tutorial where you'll create a project that runs on Android, iOS, and the web.
-
-## Join the community
-
-Join our community of developers creating universal apps.
-
-- [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
-- [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
